@@ -1,7 +1,5 @@
 # BSM-Option-Pricing-Calculator
 
-## Video-demo: *(coming soon)*
-
 ## Description:
 This is a Python program designed to output a **theoretical** price and Greeks of a plain vanilla call/put European-style option using 
 Black-Scholes pricing model. Black-Scholes model is a mathematical model developed by economists Fischer Black and Myron Scholes in 
